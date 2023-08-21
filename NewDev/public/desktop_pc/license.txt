@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cars 3 Driven To Win - Jackson Storm
+* source:	https://sketchfab.com/3d-models/cars-3-driven-to-win-jackson-storm-258959658f6c4d34aee4c8ff371740f6
+* author:	maximilian (https://sketchfab.com/djmax0955)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cars 3 Driven To Win - Jackson Storm" (https://sketchfab.com/3d-models/cars-3-driven-to-win-jackson-storm-258959658f6c4d34aee4c8ff371740f6) by maximilian (https://sketchfab.com/djmax0955) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
